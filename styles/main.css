@@ -135,7 +135,7 @@ footer p {
     }
 
     #showNavigation {
-        z-index: 999;
+        z-index: 9999999999;
         width: 25px;
         aspect-ratio: 1;
         background: maroon;
